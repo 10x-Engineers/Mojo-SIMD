@@ -1,0 +1,12 @@
+[project]
+authors = ["taalhaataahir0102 <23100293@lums.edu.pk>"]
+channels = ["conda-forge", "https://conda.modular.com/max"]
+description = "Add a short description here"
+name = "norm-comparison"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+max = ">=24.5.0,<25"
